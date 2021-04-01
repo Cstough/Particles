@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VisiCode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../VisiCode.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
